@@ -1,4 +1,4 @@
-# Welcome to React AccuWeather
+# Welcome to AccuWeather
 
 ## Overview
 
